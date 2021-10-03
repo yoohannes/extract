@@ -7,7 +7,9 @@ sampletext.txt
 poetry.lock
 .python-version
 tweetextract/outputjson.json
+tweetextract/outputjson1.json
 tweetextract/keyconfig.yaml
+**/.vscode/
 ### Linux ###
 *~
 
